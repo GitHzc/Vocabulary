@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/start_test"
+        android:title="@string/menu2_title1"
+        app:showAsAction="ifRoom"/>
+    <item android:id="@+id/start_review"
+        android:title="@string/menu2_title2"
+        app:showAsAction="never"/>
+</menu>

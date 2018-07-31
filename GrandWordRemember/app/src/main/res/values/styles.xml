@@ -1,0 +1,22 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:actionOverflowButtonStyle">@style/OverflowButtonStyle</item>
+        <item name="android:actionMenuTextColor">@android:color/white</item>
+        <item name="android:actionOverflowMenuStyle">@style/OverflowMenuStyle</item>
+    </style>
+
+    <style name="OverflowButtonStyle" parent="Widget.AppCompat.ActionButton.Overflow">
+        <item name="android:src">@mipmap/ic_menu</item>
+    </style>
+
+    <style name="OverflowMenuStyle" parent="Base.Widget.AppCompat.PopupMenu.Overflow">
+        <item name="android:actionMenuTextColor">@android:color/black</item>
+    </style>
+
+</resources>

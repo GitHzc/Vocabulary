@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/search"
+        android:title="@string/menu_title1"
+        android:icon="@drawable/ic_action_search"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/add"
+        android:icon="@android:drawable/ic_input_add"
+        android:title="@string/menu_title2"
+        app:showAsAction="ifRoom"/>
+    <item android:id="@+id/download"
+        android:title="@string/menu_title3"
+        app:showAsAction="never"/>
+    <item android:id="@+id/show_meaning"
+        android:title="@string/menu_title4"
+        android:checkable="true"
+        android:checked="false"
+        app:showAsAction="never"/>
+</menu>

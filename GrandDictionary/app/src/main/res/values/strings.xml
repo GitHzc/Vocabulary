@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">GrandDictionary</string>
+    <string name="toolbar_title">简明英文词典</string>
+    <string name="toolbar_subtitle">中山大学</string>
+    <string name="menu_title1">action1</string>
+    <string name="menu_title2">action2</string>
+    <string name="menu_title3">下载单词</string>
+    <string name="menu_title4">显示词义</string>
+    <string name="delete">删除</string>
+    <string name="modify">修改</string>
+    <string name="word">单词</string>
+    <string name="explanation">解释</string>
+    <string name="level">级别</string>
+    <string name="cover">是否覆盖</string>
+    <string name="word_hint">请填写单词</string>
+    <string name="explanation_hint">请填写解释</string>
+    <string name="level_hint">请选择难度(0~8)</string>
+</resources>

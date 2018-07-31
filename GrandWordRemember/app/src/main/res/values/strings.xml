@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">GrandWordRemember</string>
+    <string name="toolbar_title">学霸背单词</string>
+    <string name="toolbar_subtitle">-快速记忆法</string>
+    <string name="menu_title1">进入测验</string>
+    <string name="menu_title2">新增单词</string>
+    <string name="menu_title3">学习统计</string>
+    <string name="menu_title4">查找单词</string>
+    <string name="menu_title5">系统设置</string>
+    <string name="menu2_title1">开始测试</string>
+    <string name="menu2_title2">开始复习</string>
+    <string name="word_test">单词测验</string>
+    <string name="submit">提交</string>
+    <string name="word">单词</string>
+    <string name="explanation">解释</string>
+    <string name="level">级别</string>
+    <string name="cover">是否覆盖</string>
+    <string name="word_hint">请填写单词</string>
+    <string name="explanation_hint">请填写解释</string>
+    <string name="level_hint">请选择难度(0~8)</string>
+    <string name="test_statistic">测试统计</string>
+    <string name="test">测试</string>
+    <string name="right">正确</string>
+    <string name="appearance_setting">外观设置</string>
+    <string name="other_setting">其他设置</string>
+    <string name="word_color">单词颜色</string>
+    <string name="word_num">测试单词数</string>
+    <string name="statistic_save">保存时是否统计</string>
+    <string name="red">Red</string>
+    <string name="blue">Blue</string>
+    <string name="green">Green</string>
+    <string name="black">Black</string>
+</resources>

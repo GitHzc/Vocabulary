@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="choice">1</integer>
+    <integer name="answer">2</integer>
+    <integer name="word">3</integer>
+</resources>

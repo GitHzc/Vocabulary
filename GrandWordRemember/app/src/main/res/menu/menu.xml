@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/test"
+        android:title="@string/menu_title1"
+        app:showAsAction="ifRoom"/>
+    <item android:id="@+id/add"
+        android:title="@string/menu_title2"
+        app:showAsAction="never"/>
+    <item android:id="@+id/statistic"
+        android:title="@string/menu_title3"
+        app:showAsAction="never"/>
+    <item android:id="@+id/search"
+        android:title="@string/menu_title4"
+        app:showAsAction="never"/>
+    <item android:id="@+id/setting"
+        android:title="@string/menu_title5"
+        app:showAsAction="never"/>
+</menu>
